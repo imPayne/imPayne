@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imPayne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=imPayne&count_private=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imPayne&layout=compact&langs_count=10&theme=dark)
 
