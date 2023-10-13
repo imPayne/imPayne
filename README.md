@@ -3,9 +3,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=imPayne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imPayne&layout=compact&langs_count=10&theme=dark)
 
-<!--
-**imPayne/imPayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
